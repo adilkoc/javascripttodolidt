@@ -1,0 +1,3 @@
+# javascripttodolidt
+
+localstorage üzerinde çalışıyorum
